@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pri (aka @Digital-inspiration)
+- 👋 Hi, I’m Pri 
 - 👀 I’m interested in AI, Python, Web3, blockchain
 - 🌱 I’m currently learning Mistral
 - 💞️ I’m looking to collaborate on Python, AI
